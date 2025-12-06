@@ -37,4 +37,3 @@ while changed:
             grid[r][c] = '.'
 
 print(total)
-kldofopjkfedko pisodkl;sdpo
